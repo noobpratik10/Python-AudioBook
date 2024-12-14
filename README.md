@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-audiobook.git
+   git clone https://github.com/noobpratik10/Python-AudioBook.git
    cd python-audiobook
    ```
 2. Install dependencies:
